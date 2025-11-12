@@ -30,6 +30,7 @@ Publish the website in the given URL.
 ## PROGRAM:
 ```
 home.html
+
 <html>
 <head>
     <link href="design.css" rel="stylesheet">
@@ -149,7 +150,7 @@ home.html
             <center>
               <h2 ">Our New Menu:</h2>
                 
-              <img class="image" src="img2.jpeg" height="200" width="200">
+              <img class="image" src="img2.jpeg" height="200" width="220">
                 <br>
 
               <h3 style="margin-top: 4;">*   TOFU TIKKA MASALA</h3>
@@ -165,12 +166,12 @@ home.html
         <div class="info-box">
           <div class="menu-content">
             <center>
-              <h2 style="margin-left: 50 ;">Book Your Table:</h2>
-              <img class="image" src="img3.jpeg" width="225" height="225" style="margin-left: 70;">
+              <h2 style="margin-left: 70 ;">Book Your Table:</h2>
+              <img class="image" src="img3.jpeg" width="320" height="270" style="margin-left: 130;">
               <br>
-              <h3 style="margin-top: 9;margin-left: 70;">  Book your seats online now !!</h3>
-              <p style="margin-top: 9;margin-left: 70;">Have a great time with your family and friends..</p>
-              <p style="margin-top: 9;margin-left: 70;">Book your table atleast before 1 day at our website</p>
+              <h3 style="margin-top: 9;margin-left: 120;">  Book your seats online now !!</h3>
+              <p style="margin-top: 9;margin-left: 120;">Have a great time with your family and friends..</p>
+              <p style="margin-top: 9;margin-left: 120;">Book your table atleast before 1 day at our website</p>
             </center>
           </div>
         </div>
@@ -178,12 +179,12 @@ home.html
           <div class="menu-content">
             <center>
               <h2 style="margin-left:100;">Opening Hours :</h2>
-              <img class="image" src="img4.jpg" width="225" height="225" style="margin-left: 100;">
+              <img class="image" src="img4.jpg" width="320" height="270" style="margin-left: 130;">
               <br>
              
-              <h3 style="margin-top: 9;margin-left: 90;">  Opens at !!</h3>
-              <p style="margin-top: 9;margin-left: 90;">Day : Monday - Sunday</p>
-              <p style="margin-top: 9;margin-left: 90;">Timings : 1:00am to 11:00pm </p>
+              <h3 style="margin-top: 9;margin-left: 130;">  Opens at !!</h3>
+              <p style="margin-top: 9;margin-left: 130;">Day : Monday - Sunday</p>
+              <p style="margin-top: 9;margin-left: 130;">Timings : 1:00am to 11:00pm </p>
 
             </center>
           </div>
@@ -193,17 +194,17 @@ home.html
       </div>
     
 </body>
-<footer style="background-color:rgba(6, 8, 5, 0.581);height: 150;width: 1600px;color: white;text-align: center;font-family: cursive;font-size: 5;margin-top:30;">
-    <h2 style="font-size:medium; margin-top: 4;">IndianCEmail@gmail.com </h2> <h2 style="font-size:medium;">📞Contact number : +91 6369869924</h2><br>
+<footer style="background-color:rgba(6, 8, 5, 0.581);height: 150;width: 2000px;color: white;text-align: center;font-family: cursive;font-size: 5;margin-top:30;">
+    <h2 style="font-size:medium; margin-top: 4;">IndianCEmail@gmail.com </h2> <h2 style="font-size:medium;">Contact number : +91 6369869924</h2><br>
     <h2 style="font-size:medium;">Address  : No 8, Ghandhi street ,Anna nagar ,Chennai</h2>
     <br>
-    <h2 style="font-size:medium;">----------❤️DEVELOPED BY MADHUMITHA B❤️--------- </h2>
+    <h2 style="font-size:medium;">----------DEVELOPED BY SRUTHI.A--------- </h2>
 </footer>
 
 </html>
-```
-```
+
 menu.html
+
 <html>
 <head>
     <link href="design.css" rel="stylesheet">
@@ -346,9 +347,9 @@ menu.html
     <h2 style="font-size:medium;">----------Where Every Region Tells A Story ----------</h2>
 </footer>
 </html>
-```
-```
+
 team.html
+
 <html>
 <head>
     <link href="design.css" rel="stylesheet">
@@ -475,14 +476,15 @@ team.html
 </body>
 <footer style="background-color:#333;height:150px;width:100%;color:white;text-align:center;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:5px;margin-top:30px;">
    <br> <h2 style="font-size:medium; margin-top:4px;">Email : IndianCEmail@gmail.com</h2>
-    <h2 style="font-size:medium;">📞Contact number :+91 6369869924</h2><br>
+    <h2 style="font-size:medium;">Contact number :+91 6369869924</h2><br>
     <h2 style="font-size:medium;">Address: No 8, Ghandhi street ,Anna nagar ,Chennai</h2>
     <br>
     <h2 style="font-size:medium;">----------Where Every Region Tells A Story ----------</h2>
 </footer>
 </html>
-```
+
 contact.html
+
 <html>
 <head>
     <link href="design.css" rel="stylesheet">
@@ -511,7 +513,7 @@ contact.html
     }
 
     .contact-box {
-        background-color: #167e79;
+        background-color: #1cb447;
         color: white;
         padding: 20px;
         margin: 0 auto;
@@ -554,7 +556,7 @@ contact.html
         <h1>CONTACT US</h1>
         <div class="contact-box">
             <p><strong>Restaurant:</strong> THE INDIAN ESSENCE</p>
-            <p><strong>Address:</strong> </p>
+            <p><strong>Address:</strong> Address: No 8, Ghandhi street ,Anna nagar ,Chennai </p>
             <p><strong>Phone:</strong> +91 6369869924</p>
             <p><strong>Email:</strong> IndianCEmail@gmail.com</p>
             <p><strong>Reservations:</strong> Recommended for dinner service</p>
@@ -563,7 +565,7 @@ contact.html
 </body>
 <footer style="background-color:#333;height:150px;width:100%;color:white;text-align:center;font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;font-size:5px;margin-top:30px;">
    <br><br> <h2 style="font-size:medium; margin-top:4px;">Email : IndianCEmail@gmail.com</h2>
-    <h2 style="font-size:medium;">📞Contact number :+91 6369869924</h2><br>
+    <h2 style="font-size:medium;">Contact number :+91 6369869924</h2><br>
     <h2 style="font-size:medium;">Address: Address: No 8, Ghandhi street ,Anna nagar ,Chennai</h2>
     <br>
     <h2 style="font-size:medium;">----------DEVELOPED BY SRUTHI.A----------</h2>
@@ -571,11 +573,11 @@ contact.html
 </html>
 ```
 
-
 ## OUTPUT:
-![alt text](<Screenshot 2025-11-11 225726.png>)
-![alt text](<Screenshot 2025-11-12 102536.png>)
-![alt text](<Screenshot 2025-11-11 231127.png>)
-![alt text](<Screenshot 2025-11-11 231659.png>)
+![alt text](<Screenshot 2025-11-12 112854.png>)
+![alt text](<Screenshot 2025-11-12 112914.png>)
+![alt text](<Screenshot 2025-11-12 113217.png>)
+![alt text](<Screenshot 2025-11-12 113236.png>)
+
 ## RESULT:
 The program for designing software company website using HTML and CSS is completed successfully.
